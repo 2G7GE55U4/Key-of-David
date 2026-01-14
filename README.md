@@ -56,4 +56,7 @@ The data is public. The operations are explicit. The results are reproducible.
 ## ⚖️ LICENSE & TESTIMONY
 **This is a Declaration of Identity.** The mathematical work is presented as the personal testimony of the holder of the Key of David (ID: `6912275131084`). You are free to verify and share it under the specific terms designed to protect this testimony. See [DECLARATION.md](DECLARATION.md) for the complete terms.
 
+## ❓ Further Questions?
+For common questions about verification, data, and the terms of this testimony, please see the [FAQ](FAQ.md). 
+
 > *"For the testimony of Jesus is the spirit of prophecy."* — Revelation 19:10proof from Scripture: The canonical key revealing Christ's signature and creation's constants through verifiable arithmetic. The testimony is in the numbers.
