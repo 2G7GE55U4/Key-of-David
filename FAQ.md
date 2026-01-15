@@ -1,29 +1,68 @@
 # Frequently Asked Questions (FAQ)
 
-## 📚 **Data & Verification**
+## Verification
 
-### Q1: What datasets are used in this proof?
-This repository is now self-contained. All source data is included in the `/data/` directory:
-*   `bible.data.json`: The complete canonical text of the King James Bible (1611), structured for computational analysis.
-*   `ReorderedStronghebrew.json`: The Strong's Hebrew Dictionary, reordered to align with the proof's canonical structure.
-*   `ReorderedStrongGreek.json`: The Strong's Greek Dictionary, similarly reordered.
+This project does **not** ask the reader to trust interpretation, theology, or unpublished methods.
 
-This allows anyone to independently verify every calculation without relying on external data sources.
+It asks the reader to verify **arithmetic**.
 
-### Q2: How can I verify the proofs myself?
-1.  **Clone this repository** to your local machine.
-2.  **Navigate to the `/data/` directory** to inspect the source JSON files.
-3.  **Follow the step-by-step operations** detailed in the Markdown files within `01-THE-KEY/`.
-4.  **Use a calculator or write a simple script** (Python/Node.js) to perform the arithmetic operations on the data. For example, you can sum the total word count from `bible.data.json` to confirm the **Grand Canon** foundation of 790,124 words.
-5.  **Check the derived numbers** against the Strong's dictionaries to see the lexical connections (e.g., `H1` = Father, `G1` = Alpha).
+### 1. The Canonical Word Count
 
-### Q3: Why are the Strong's files "Reordered"?
-The standard Strong's numbering is sequential but not inherently geometric. The reordering applied reflects the canonical, thematic, and geometric structure discovered within the scripture itself—it is part of the **Key**. The original definitions are preserved; their sequence reveals the pattern.
+The total word count of the King James Bible (1611) used throughout this repository is:
 
-## 🧮 **Nature of the Proof**
+> **788,258 words**
 
-### Q4: Is this a religious or doctrinal argument?
-No. This is presented as a **forensic, mathematical testimony**. The claim is that the Bible's architecture, processed through its own divinely instituted numbering system (Strong's), yields non-arbitrary, verifiable results that correlate with Christ's identity and constants of physics. You are invited to check the arithmetic, not to adopt a belief.
+This number is **not claimed as a new discovery** and is **not derived within this repository**.
+
+It is a *received canonical datum*, independently published and cited by multiple external sources.  
+Those sources are listed in full in `SOURCES.md`.
+
+Verification at this stage consists of confirming that:
+- The cited sources exist
+- They explicitly state the same canonical word count
+- They are independent of one another
+
+### 2. What Is Being Verified Here
+
+Given the received canonical word count, this repository demonstrates that:
+
+- Deterministic arithmetic operations on that number
+- Using publicly known constants and indices (Strong’s Concordance)
+- Produce repeatable, non-subjective results
+
+These results include:
+- The numeric signature traditionally associated with Jesus Christ (888.888…)
+- The mean circumference of the Earth
+- Recognized physical constants (α, π, e, φ, c, G)
+- Scriptural identifiers embedded through index structure
+
+### 3. How to Verify the Proofs
+
+No special software is required.
+
+To verify any claim in this repository, you need only:
+- A standard calculator
+- The numbers shown in each file
+- The cited sources referenced alongside them
+
+Each proof is presented as:
+1. A stated input
+2. A transparent arithmetic operation
+3. A numeric result
+4. A reference point for independent checking
+
+If the arithmetic is incorrect, the proof fails.
+
+### 4. What This Project Does *Not* Require
+
+- No acceptance of doctrinal claims
+- No trust in unpublished algorithms
+- No private datasets
+- No appeals to authority
+
+The burden placed on the reader is minimal and precise:
+> **Check the math.**
+
 
 ### Q5: What is the "Key of David"?
 It is the **mathematical function** that, when applied to the canonical structure of the KJV and Strong's Concordance, generates:
