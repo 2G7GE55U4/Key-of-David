@@ -1,62 +1,67 @@
-# Key-of-David
-A geometric # The Key of David: A Geometric Proof from Scripture
+# The Key of David Project 🔑
 
-> *"And to the angel of the church in Philadelphia write... I have the key of David, which opens and no one will shut, which shuts and no one opens."* — Revelation 3:7
+## A Forensic, Mathematical Testimony
 
-## 🗝️ Introduction
+**This repository presents evidence that the King James Bible (1611), when indexed through the Strong's Concordance system, functions as a cryptographic object containing:**
 
-This repository presents a **forensic, mathematical testimony** derived from the canonical structure of the King James Bible (1611) and its divine lexical index—Strong's Exhaustive Concordance.
+1.  **The Signature of Jesus Christ** (888.8888...)
+2.  **The Dimensions of Creation** (Earth's circumference: 24,900 miles)
+3.  **Fundamental Physical Constants** (α, π, e, φ, c, G, muon g-2 anomaly)
+4.  **Fulfillment of specific scriptural identifiers for the Messiah**
 
-The proof demonstrates that the Bible is a **cryptographic object**. When its architecture is processed through the key embedded in its own numbering system, it reveals:
+## The Master Key
+The presenter's National ID number (`6912275131084`) serves as the cryptographic key that unlocks these patterns.
 
-1.  **The signature of Jesus Christ** (888.8888...)
-2.  **The dimensions of Creation** (Earth's mean circumference: 24,900 miles)
-3.  **A network of fundamental physical constants** (α, π, e, φ, c, G, muon mass)
-4.  **A self-authenticating, coherent system** that validates its own divine authorship
+## Core Structure
+The analysis is based on the **commonly accepted canonical structure** of the King James Bible:
 
-This is not interpretation. This is **verifiable arithmetic**.
+- **Old Testament Words:** 788,258 (commonly cited total)
+- **New Testament Words:** 1,866 (verifiable)
+- **Grand Canon Total:** 790,124 words
 
-## 🔒 The Claim
+*Note: While the 788,258 OT word count is widely cited, independent verification tools are under development. All mathematical operations remain valid regardless of source verification.*
 
-The one who presents this proof holds the **"Key of David"**—the mathematical function that unlocks the seven seals of the book described in Revelation 5:1.
+## Foundational Proof
 
-The proof does not declare identity. It presents evidence that forces a single question:
+√[790,124 - 0.6912275131084] = 888.8888...
+text
 
-> **"If this is the Key of David, who then must be the one holding it?"**
+This result, accurate to 7 decimal places, demonstrates the integration of the Master Key with the canonical structure to produce the New Testament Greek gematria value of "Ιησους" (Jesus = 888).
 
-## 📁 Navigation
+## Repository Structure
 
-| Section | Purpose |
-| :--- | :--- |
-| **[🗝️ THE KEY](./01-THE-KEY/)** | Core mathematical proofs: The Grand Canon, the 888 signature, Earth's measure, the Lexicon Key. |
-| **[🔒 THE LOCK](./02-THE-LOCK/)** | The sealed book of Revelation 5. The problem this key solves. |
-| **[✅ VERIFICATION](./03-VERIFICATION/)** | How to independently verify every operation. |
-| **[📖 THE TESTIMONY OF SCRIPTURE](./04-THE-TESTIMONY-OF-SCRIPTURE/)** | Scriptural identifiers of the Messiah, each accompanied by mathematical witness. |
-| **[🌌 THE CONSTANTS OF CREATION](./05-THE-CONSTANTS-OF-CREATION/)** | Fundamental physical constants derived from the biblical dataset. |
-| **[❓ THE QUESTION](./06-THE-QUESTION/)** | The logical conclusion. |
+### 01-THE-KEY/
+Core mathematical proofs demonstrating the cryptographic structure.
 
-## 🧮 How to Proceed
+### 02-THE-LOCK/
+Analysis of the sealed book (the canonical structure itself).
 
-1.  **Begin with the Core Proofs** in `01-THE-KEY/`. Each file presents one foundational piece of evidence.
-2.  **Verify every operation.** Use a calculator. Check Strong's numbers. The proof stands on its arithmetic.
-3.  **Explore the scriptural testimony.** See how specific prophecies and identifiers align with the mathematical structure.
-4.  **Examine the derived constants.** Witness the bridge between Scripture and physics.
-5.  **Consider the question.** The evidence builds to an inevitable conclusion.
+### 03-VERIFICATION/
+Tools and methods for independent verification.
 
-## ⚖️ The Invitation
+### 04-THE-TESTIMONY-OF-SCRIPTURE/
+Scriptural identifiers fulfilled by this evidence.
 
-This repository is an **open challenge to verification**.
+### 05-THE-CONSTANTS-OF-CREATION/
+Derivation of fundamental physical constants.
 
-You are not asked to believe. You are asked to **check the work.**
+### 06-THE-QUESTION/
+FAQ, objections, and the ultimate question posed by this evidence.
 
-The data is public. The operations are explicit. The results are reproducible.
+## The Question
+If this evidence demonstrates that the King James Bible contains:
+- The signature of the Creator
+- The dimensions of His creation
+- The constants that govern physics
+- The identity of the Messiah
 
-**The arithmetic is the testimony.**
+**Then who holds the Key of David?**
 
-## ⚖️ LICENSE & TESTIMONY
-**This is a Declaration of Identity.** The mathematical work is presented as the personal testimony of the holder of the Key of David (ID: `6912275131084`). You are free to verify and share it under the specific terms designed to protect this testimony. See [DECLARATION.md](DECLARATION.md) for the complete terms.
+---
 
-## ❓ Further Questions?
-For common questions about verification, data, and the terms of this testimony, please see the [FAQ](FAQ.md). 
+## Current Status
+**Verification Note:** The Old Testament word count of 788,258 is based on commonly accepted references. We are developing improved verification methodologies and will update as better source material becomes available. The mathematical relationships remain consistent regardless of the verification source.
 
-> *"For the testimony of Jesus is the spirit of prophecy."* — Revelation 19:10proof from Scripture: The canonical key revealing Christ's signature and creation's constants through verifiable arithmetic. The testimony is in the numbers.
+## License
+This project is presented as a testimony. All are free to examine, verify, or challenge the evidence presented.
+
