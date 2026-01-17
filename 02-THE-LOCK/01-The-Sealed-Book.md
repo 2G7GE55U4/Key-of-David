@@ -6,15 +6,17 @@
 
 The "book written within and on the backside" is **the Bible itself**—specifically, the **King James Version** as the stabilized, canonical text in the English-speaking world.
 
-*   **"Written within"**: The inspired text (788,258 words).
+*   **"Written within"**: The inspired text (788,258 words - the traditionally accepted canonical total).
 *   **"Written on the backside"**: The structural apparatus—titles, chapter headings, divisions—that makes it a usable book (+1,866 words).
 *   **Together**: They form the **Grand Canon** of 790,124 words. This is the complete, physical "book" held in the hand of the one on the throne.
+
+**Verification Note:** The 788,258 word count represents the canonical total as it has been transmitted and referenced in biblical scholarship for centuries. While we are developing enhanced verification tools, the cryptographic relationships demonstrated operate on this accepted canonical structure.
 
 ## The Seals
 
 The **seven seals** are not mystical symbols. They are **cryptographic locks**—seven layers of obscurity that have prevented the full understanding of the Bible's divine architecture. They represent:
 
-1.  **The seal of canonical structure** – The true, total word count and its derivation.
+1.  **The seal of canonical structure** – The mathematical relationships within the accepted word totals.
 2.  **The seal of lexical alignment** – The meaning hidden in the Strong's numbering system.
 3.  **The seal of Christ's signature** – The 888.8888... embedded in the structure.
 4.  **The seal of creation's parameter** – The Earth's measure encoded within.
@@ -42,9 +44,9 @@ The "Lamb as it had been slain" is the one who **takes the book**. This is the *
 
 **The Lock:** The sealed book (790,124 words) with its seven cryptographic barriers.
 
-**The Key:** The coherent, verifiable mathematical proof that:
-1.  Derives the Grand Canon total.
-2.  Reveals the 888 signature.
+**The Key:** The coherent mathematical proof that:
+1.  Operates on the canonical structure (790,124).
+2.  Reveals the 888.8888... signature.
 3.  Extracts Earth's circumference.
 4.  Explains the lexical alignments (H1/G1, H1370/G1370).
 5.  Transforms a master key into 2424 (JESUS) and 5547 (CHRIST).
