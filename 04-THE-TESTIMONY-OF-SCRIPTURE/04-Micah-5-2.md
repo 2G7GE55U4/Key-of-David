@@ -8,90 +8,212 @@ This prophecy identifies the Messiah with **dual origins**:
 1.  **Human, Geographical Origin:** Born in **Bethlehem Ephratah**, a specific town in Judah.
 2.  **Divine, Eternal Origin:** His "goings forth" are **from of old, from everlasting** (מִקֶּדֶם, מִימֵי עוֹלָם).
 
-## The Mathematical Witness
+## The Benoni Revelation
 
-### **1. Bethlehem: The House of Bread (לֶחֶם)**
-The name **Bethlehem** (בֵּית לֶחֶם) means "House of Bread."  
-This connects directly to the **Bread of Life** motif and the 888 signature:
+### **The Law of First Mention**
+Genesis 35:19 reveals:
+
+"And Rachel died, and was buried in the way to Ephrath, which is Bethlehem."
+text
+
+
+By the **Law of First Mention**, Bethlehem's first mention is connected to Rachel's death while giving birth to **Benoni** ("son of my sorrows").
+
+Thus: **"Jesus Christ was actually born in Benoni!"**
+
+### **The Suffering Servant Connection**
+- **"Benoni"** = "son of my sorrows"
+- **"South Africa"** phonetically = "Suffer Freaker!"
+- The Messiah is the **Suffering Servant** prophesied in Isaiah 53
+
+## Mathematical Testimony
+
+### **1. The Bethlehem-Benoni Calculation**
+
+2424 + 1126 + 1 = 3551
+text
+
+Where:
+- **2424 = G2424 = "JESUS"**
+- **1126 = H1126 = "BENONI"** (בֶּן־אוֹנִי)
+- **1 = H1 = "FATHER"** / **G1 = "ALPHA"**
+- **3551 = G3551 = "THE LAW"** (νόμος)
+
+Thus: **Jesus + Benoni + Father = The Law**
+
+### **2. The Firstborn Anointing**
+
+965 + 1060 = 2025
+text
+
+Where:
+- **965 = G965 = "BETHLEHEM"** (Βηθλεέμ)
+- **1060 = H1060 = "THE FIRSTBORN SON"** (בְּכוֹר)
+- **2025 = G2025 = "ANOINT"** (χρίω) / **H2025 = "THE ALTAR/MOUNT OF GOD"**
+
+Thus: **Bethlehem + Firstborn = Anointed at God's Altar**
+
+### **3. The Master Key to Jesus (Grace)**
+
+∜[6912275131084 × √25] = 2424
+text
+
+Where:
+- **√25 = 5** = Grace
+- **2424 = G2424 = "JESUS"**
+- Master Key transformed by grace yields Jesus
+
+### **4. The Master Key to Christ (Division/Baptism)**
+
+∜[6912275131084 × 137] = 5547.3478...
+text
+
+Where:
+- **137** = Inverse fine-structure constant (α⁻¹)
+- **5547 = G5547 = "CHRIST"**
+- **.3478** connects to **3478 = H3478 = "ISRAEL"**
+- **G137 = "AENON"** (springs) - place of baptism
+
+### **5. The Complementary Strong's Pairs**
+
+G2424 = "JESUS" ↔ H2424 = "LIVING" (חַי)
+G5547 = "CHRIST" ↔ H5547 = "FORGIVENESS" (סְלִיחָה)
+G3478 = "NAZARETH" ↔ H3478 = "ISRAEL"
+text
+
+
+### **6. The Bethlehem-Bread Connection**
 
 888.8888... / 1.2 = 740.740666...
 text
 
-*   **G740 = "BREAD"** (ἄρτος) – The Bread of Life (John 6:35).
-*   The signature of Christ (888.8888...) divided yields the **bread** from Bethlehem's "house."
+Where:
+- **Bethlehem** = "House of Bread"
+- **740 = G740 = "BREAD"** (ἄρτος)
+- From Christ's signature (888) comes bread
 
-### **2. The Ruler in Israel: The Government upon His Shoulder**
-The prophecy says **"ruler in Israel."** The concept of governance is tied to measurement and authority, fulfilled in the Earth's derived circumference:
+### **7. The Ruler's Dominion**
 
-√[790124 × 1189 × 66] / 10 = 24,900 mi
+√[790124 × 1189 × 66] / 10 = 24,900.6 miles
 text
 
-This is the **measure of His dominion**—the ruler's domain quantified from the Book.
+Earth's circumference as measure of Messiah's dominion
 
-### **3. "From of Old, From Everlasting" – The Eternal Origin**
-The Hebrew phrase **"from everlasting"** (מִימֵי עוֹלָם) speaks of **days of eternity**.  
-This is mirrored in the **transcendental numbers** π (pi) and ℮ (Euler's number), which are eternal, non-repeating, and foundational to reality.
-
-The Christological transform uses **π** to bridge the eternal to the identified:
+### **8. The Eternal Origin (π Connection)**
 
 (0.6912275131084⁻¹⁸ + 1) × π = 2424
 text
 
-*   **π** represents the **eternal circle** (no beginning, no end).
-*   The operation yields **2424 = G2424 = "JESUS"**.
-*   Thus, Jesus' identity is **mathematically derived from an eternal constant**, confirming "from everlasting."
+Where:
+- **π** = Eternal circle (no beginning/end)
+- Confirms "from everlasting"
 
-### **4. The "Goings Forth" (מוֹצָאָה) – The Act of Proceeding**
-The "goings forth" imply **active procession**. This is seen in the **logarithmic procession** of the Key of David:
-
-log₁₀(2807) × 10³ = 3448.2424...
-text
-
-*   This shows a **procession (log)** from **THE KEY (2807)** to **JESSE (3448)** and finally to **JESUS (2424)**.
-*   This is a **mathematical "going forth"** from the Davidic root (Jesse) to the fulfillment (Jesus).
-
-### **5. Bethlehem's Smallness and the Grand Canon**
-Bethlehem was "little among the thousands of Judah." Yet, from this small town comes the **Ruler**.  
-Similarly, the **apparatus words (1,866)** are a small addition to the massive manuscript (788,258), yet they are **crucial** to form the Grand Canon (790,124) from which all proof flows.
-
-The small (Bethlehem, the apparatus) is **essential** to produce the great (the Ruler, the Grand Canon).
-
-### **6. The Son Given: Numerical Identity**
-The prophecy implies a **son** (ruler) coming forth. This connects to the derived title:
+### **9. The Son Calculation**
 
 (∛㏑(10π))⁴ × 10³ = 5207
 text
 
-*   **G5207 = "THE SON"** (υἱός) – The divine Son given.
-*   The operation uses **10π**, combining **completeness (10)** and **eternity (π)**, to yield **THE SON**.
+Where:
+- **5207 = G5207 = "THE SON"** (υἱός)
+- **10π** combines completeness (10) and eternity (π)
 
-## Integration with the Broader Proof
+### **10. The Romans 11:26 Connection**
 
-*   **Bethlehem (Bread)** connects to the **888 signature derivative (740 = Bread)**.
-*   **Ruler in Israel** connects to the **Earth's measured dominion (24,900 mi)**.
-*   **From everlasting** connects to the **use of π in the Christological transform**.
-*   **Goings forth** connects to the **logarithmic procession of the Key of David**.
-*   **The Son** connects to the **derived G5207 from 10π**.
+G1125 = "AS IT IS WRITTEN" + 1 = 1126
+text
 
-## Verification Steps
+- **Romans 11:26** references "as it is written"
+- **1126 = H1126 = "BENONI"**
+- Scripture authenticates the Benoni revelation
 
-1.  Calculate: `888.8888... / 1.2`. Verify ~**740.740**.
-2.  Calculate: `(0.6912275131084^-18 + 1) * π`. Verify ~**2424**.
-3.  Calculate: `log10(2807) * 1000`. Verify ~**3448.2424**.
-4.  Calculate: `(ln(10 * pi))^(4/3) * 1000` (or compute stepwise: `ln(31.4159) ≈ 3.447`, `3.447^(4/3) ≈ 5.207`, `×1000 = 5207`).
-5.  Observe the conceptual link: **Small origin (Bethlehem) → Essential component (Apparatus) → Grand result (Canon/Ruler).**
+## Strong's Concordance Network
+
+| Strong's | Meaning | Mathematical Connection |
+|----------|---------|-------------------------|
+| **G965** | BETHLEHEM | 965 + 1060 = 2025 |
+| **H1060** | FIRSTBORN | With Bethlehem yields anointing |
+| **G2025** | ANOINT | Result of Bethlehem + Firstborn |
+| **H2025** | ALTAR/MOUNT OF GOD | Same number as G2025 |
+| **G2424** | JESUS | From Master Key × √25 |
+| **H2424** | LIVING | Complementary to G2424 |
+| **G5547** | CHRIST | From Master Key × 137 |
+| **H5547** | FORGIVENESS | Complementary to G5547 |
+| **H1126** | BENONI | 2424 + 1126 + 1 = 3551 |
+| **G3551** | THE LAW | Sum of Jesus + Benoni + Father |
+| **G3478** | NAZARETH | In Christ calculation result |
+| **H3478** | ISRAEL | Complementary to G3478 |
+| **G137** | AENON | Factor in Christ calculation |
+| **G5207** | THE SON | From (∛㏑(10π))⁴ × 1000 |
+| **G740** | BREAD | 888.8888... / 1.2 |
+
+## Theological Synthesis
+
+### **The Dual Birthplace**
+1. **Geographically**: Bethlehem (House of Bread)
+2. **Prophetically**: Benoni (Son of Sorrows)
+3. **Mathematically**: Both confirmed by calculations
+
+### **The Suffering Servant Identity**
+- **Benoni** = "son of my sorrows"
+- **Isaiah 53** = Suffering Servant
+- **South Africa** = "Suffer Freaker" (phonetic)
+- The Messiah born into suffering for humanity's redemption
+
+### **The Firstborn Anointing**
+- **Firstborn** (H1060) has rights of inheritance
+- **Anointed** (G2025) for priestly/kingly office
+- **Altar** (H2025) where sacrifice occurs
+- Complete messianic portrait: Heir, Anointed, Sacrifice
+
+### **The Law Fulfilled**
+
+Jesus + Benoni + Father = The Law (3551)
+text
+
+- Jesus fulfills the Law
+- Through His suffering (Benoni)
+- As the Father's will
+
+## Verification Chain
+
+**Copy each calculation into scientific calculator:**
+
+1. `2424 + 1126 + 1` = **3551** → G3551 = THE LAW
+2. `965 + 1060` = **2025** → G2025 = ANOINT / H2025 = ALTAR
+3. `(6912275131084 * 5)^0.25` = **~2424** → G2424 = JESUS
+4. `(6912275131084 * 137)^0.25` = **~5547** → G5547 = CHRIST
+5. `888.8888889 / 1.2` = **~740.7407** → G740 = BREAD
+6. `(0.6912275131084^-18 + 1) * π` = **~2424** → JESUS
+7. `(ln(10*π))^(4/3) * 1000` = **~5207** → G5207 = THE SON
+
+## Connection to Rachel's Prophecy
+
+Genesis 35:18-19:
+- Rachel names son **Benoni** ("son of my sorrow")
+- Jacob renames him **Benjamin** ("son of my right hand")
+- **Bethlehem** first appears in burial context
+- Foreshadows: Messiah's suffering (Benoni) → Exaltation (Benjamin)
+
+## The Eternal "Goings Forth"
+
+The mathematics confirm both origins:
+1. **Temporal**: Bethlehem/Benoni calculation
+2. **Eternal**: π in Master Key transform
+3. **Progressive**: Logarithmic Key of David procession
 
 ## Conclusion
 
-Micah 5:2 provides a **locatable human origin** and an **unfathomable eternal origin** for the Messiah. The mathematical witness confirms both:
-*   The **human, geographical** aspect is tied to the **Bread** from the 888 signature.
-*   The **eternal, divine** aspect is tied to the **transcendental constant π** in the transform to Jesus' name.
+Micah 5:2's prophecy finds exhaustive mathematical expression revealing deeper layers:
+- **Surface reading**: Born in Bethlehem
+- **First Mention law**: Born in Benoni (suffering)
+- **Mathematical confirmation**: Both locations verified
+- **Dual nature**: Human geography + Divine eternity
+- **Complete portrait**: Firstborn, Anointed, Suffering Servant, Eternal Ruler
 
-The Ruler from Bethlehem, whose goings forth are from everlasting, is identified in the numbers as **Jesus (2424)**, the **Son (5207)**, whose dominion is measured (24,900 mi) and whose key proceeds from Jesse (3448).
+The mathematics declare: The Messiah was born in **Bethlehem-Benoni**, the **Suffering Servant** who is **Firstborn** and **Anointed**, whose **goings forth are from everlasting**, confirmed by **π**, the **Master Key**, and the **Law of First Mention**.
 
-The prophecy is precise. The mathematics is precise. The match is perfect.
+The prophecy is precise. The revelation is deeper. The mathematics confirm both.
 
 ---
 
 **Next:** [Zechariah 12:10 – The Pierced One](./05-Zechariah-12-10.md)
-
