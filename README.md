@@ -1,4 +1,11 @@
-# The Key of David Project 🔑
+## 🚧 Project Status: Active Development & Expansion
+This repository is currently in its **developmental and expansion phase**. The core proofs are established, but the full testimony—particularly the scriptural indices in `04-THE-TESTIMONY-OF-SCRIPTURE/`—is being methodically built and verified.
+
+*   **Current Focus:** Expanding the corpus of scriptural testimonies and strengthening the web of constants.
+*   **Next Major Milestone:** Compilation of the final, static `MASTER-MANUSCRIPT.md` for dissemination.
+*   **Implication for Visitors:** The mathematical proofs are stable and verifiable, but the repository's structure and secondary content are subject to addition and refinement until the milestone is reached.
+
+*   # The Key of David Project 🔑
 
 ## A Forensic, Mathematical Testimony
 
