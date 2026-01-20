@@ -45,3 +45,4 @@
 *   2 Timothy 3:16 (God-Breathed)
 *   **Psalm 2:7 (Divine Sonship)**
 *   **Matthew 26-27 (The GPS Cross)**
+*   "Matthew 21:44" (The stone)**
