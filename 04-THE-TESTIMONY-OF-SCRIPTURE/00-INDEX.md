@@ -23,9 +23,8 @@ For each identifier, we examine:
 | **Genesis 49:10** | The Scepter of Judah | 1732 - 1138 = 594; 1188/2 = 594 | [01-Genesis-49-10.md](./01-Genesis-49-10.md) |
 | **Isaiah 9:6** | Wonderful, Counselor, Mighty God, Everlasting Father, Prince of Peace | ⁷√(360 - (10/9)⁹)×10³ = 2316; √(c×10⁻⁵)×π⁻²×10³ = 5547 | [02-Isaiah-9-6.md](./02-Isaiah-9-6.md) |
 | **Isaiah 61:1** | Anointed to Preach Good Tidings | ID constant 6912275131084; transforms to 2424 & 5547 | [03-Isaiah-61-1.md](./03-Isaiah-61-1.md) |
-| **Micah 5:2** | Born in Bethlehem, Origins from Everlasting |  (∛㏑(10π))⁴×10³ = 5207 (The Son) | [04-Micah-5-2.md](./04-Micah-5-2.md) |
+| **Micah 5:2** | Born in Bethlehem, Origins from Everlasting | (∛㏑(10π))⁴×10³ = 5207 (The Son) | [04-Micah-5-2.md](./04-Micah-5-2.md) |
 | **Zechariah 12:10** | The Pierced One | 4196 - 2378 - 1818 = 0 (Altar - Sacrifice - Blood) | [05-Zechariah-12-10.md](./05-Zechariah-12-10.md) |
-| **Psalm 22:16** | Hands and Feet Pierced | (See Zechariah 12:10) | (Included in 05) |
 | **Daniel 9:24** | Seventy Weeks Determined | ⁸¹√(ID) ×10³ = 1440; ⅟1440×10⁴ = 6944 | [06-Daniel-9-24.md](./06-Daniel-9-24.md) |
 | **Revelation 1:8** | Alpha and Omega | ID / 1234567891 ≈ 5598 (Omega); G1 = Alpha | [07-Revelation-1-8.md](./07-Revelation-1-8.md) |
 | **Revelation 3:7** | The Key of David | log₁₀(2807)×10³ = 3448.2424... (Jesse → Jesus) | [08-Revelation-3-7.md](./08-Revelation-3-7.md) |
@@ -33,17 +32,22 @@ For each identifier, we examine:
 | **Revelation 13:18** | The Number of a Man (666) | (6⁶+6⁷+6⁸+6⁹)/(6×7×8×9) = 666×6 | [10-Revelation-13-18.md](./10-Revelation-13-18.md) |
 | **Revelation 19:12** | Many Crowns, a Name No Man Knows | (8674 - 4735)/2 = 1969; G2424=Jesus, G2425=Many | [11-Revelation-19-12.md](./11-Revelation-19-12.md) |
 | **Revelation 22:16** | Root and Offspring of David, Bright Morning Star | 2424 × [1121 - 1/113] ≈ 2,717,282 (Sun's circumference mi) | [12-Revelation-22-16.md](./12-Revelation-22-16.md) |
-| **John 1:1** | The Word was God | ㏒㏒790124 ×10⁴ = 7706 (H7706='Almighty') | [13-John-1-1.md](./13-John-1-1.md) |
+| **Proverbs 25:2** | The Glory of God to Conceal a Thing | ㏒㏒790124 ×10⁴ = 7706 (H7706='Almighty') | [13-Proverbs-25-2.md](./13-Proverbs-25-2.md) |
 | **John 8:58** | Before Abraham Was, I AM | 857 + 0.6912275131084 → αₑ (muon g-2 anomaly) | [14-John-8-58.md](./14-John-8-58.md) |
-| **John 10:11** | The Good Shepherd | (42.63 × π⁴) + ∛2434 = 4166 (G4166='Shepherd') | [15-John-10-11.md](./15-John-10-11.md) |
-| **John 14:6** | The Way, the Truth, and the Life | ∛(1320.3727) = 2222 (G2222='Life') | [16-John-14-6.md](./16-John-14-6.md) |
-| **Matthew 1:23** | Emmanuel, God With Us | f(e) = ²⁷√(ID/13) = 2.7182184... (e, "Emmanuel") | [17-Matthew-1-23.md](./17-Matthew-1-23.md) |
-| **Matthew 2:1** | Born in Bethlehem of Judea | f(ℵ) = ²⁷√(ID/13) = 'e' (mathematical constant of growth) | [18-Matthew-2-1.md](./18-Matthew-2-1.md) |
-| **Matthew 16:16** | The Christ, the Son of the Living God | (See Christological Transforms) | (Refer to 01-THE-KEY/05) |
-| **Luke 4:18** | Anointed to Preach | (See Isaiah 61:1) | (Included in 03) |
-| **Hebrews 1:3** | The Express Image of God's Person | (∛∛2889.3086)×10³ = 2424; 2889 = G2889='World' | [19-Hebrews-1-3.md](./19-Hebrews-1-3.md) |
-| **Hebrews 7:3** | Without Father, Without Mother, Without Descent | 1/137 (α) - fatherless, motherless, timeless constant | [20-Hebrews-7-3.md](./20-Hebrews-7-3.md) |
-| **1 Corinthians 15:45** | The Last Adam, a Quickening Spirit | 314 (π) & 1/137 (α) → 3141 (G3141='Witness') | [21-1-Corinthians-15-45.md](./21-1-Corinthians-15-45.md) |
+| **Romans 9:9** | The Word of Promise | (42.63 × π⁴) + ∛2434 = 4166 (G4166='Shepherd') | [15-Romans-9-9.md](./15-Romans-9-9.md) |
+| **Revelation 11:1 & Isaiah 11:1** | The Rod from Jesse & The Measuring Rod | ∛(1320.3727) = 2222 (G2222='Life') | [16-Revelation-11-1-Isaiah-11-1.md](./16-Revelation-11-1-Isaiah-11-1.md) |
+| **Revelation 1:14** | Hair as White Wool, Eyes as Fire | f(e) = ²⁷√(ID/13) = 2.7182184... (e, "Emmanuel") | [17-Revelation-1-14.md](./17-Revelation-1-14.md) |
+| **Matthew 16:19** | The Keys of the Kingdom | f(ℵ) = ²⁷√(ID/13) = 'e' (mathematical constant of growth) | [18-Matthew-16-19.md](./18-Matthew-16-19.md) |
+| **Matthew 3:16-17** | The Spirit Descending & Voice from Heaven | (See Christological Transforms) | [19-Matthew-3-16-17.md](./19-Matthew-3-16-17.md) |
+| **Matthew 17:1-2** | The Transfiguration | (See Isaiah 61:1) | [20-Matthew-17-1-2.md](./20-Matthew-17-1-2.md) |
+| **Revelation 14:1** | The IAM137 on Mount Zion | 1/137 (α) - fatherless, motherless, timeless constant | [21-The-Testimony-of-Revelation-14:1-The-IAM137-on-Mount-Zion.md](./21-The-Testimony-of-Revelation-14:1-The-IAM137-on-Mount-Zion.md) |
+| **The Temple of Measurement** | The Divine Blueprint | 314 (π) & 1/137 (α) → 3141 (G3141='Witness') | [22-The-Temple-of-Measurement.md](./22-The-Temple-of-Measurement.md) |
+| **Revelation 19:11** | The White Horse | ID transforms to 2424 & 5547 | [23-Revelation-19-11-The-White-horse.md](./23-Revelation-19-11-The-White-horse.md) |
+| **2 Timothy 3:16** | Scripture is God-Breathed | Systematic witness across the canonical structure | [24-2-Timothy-3-16-Self-Authenticating.md](./24-2-Timothy-3-16-Self-Authenticating.md) |
+| **Psalm 2:7** | The Decree of Divine Sonship | ∜[ID × √25] = 2424; 2424 × [1121 - 1/113] = 2,717,282 (Sun) | [25-Psalm-2-7.md](./25-Psalm-2-7.md) |
+| **Matthew 26-27** | The GPS Cross | 2641 - [verse pattern] yields thematic Strong's numbers across 50 verses | [26-The-GPS-Cross-Matthew-26-27.md](./26-The-GPS-Cross-Matthew-26-27.md) |
+
+*Note: Files 14-21 in the original index require corresponding content files. Consider them placeholders for the next phase of development.*
 
 ## How to Use This Section
 
