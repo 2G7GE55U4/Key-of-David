@@ -79,5 +79,43 @@ The Convergence
 
 The mathematical structure witnesses that the God who declares "I AM THAT I AM" is the architect of physical reality. The verses that reveal His name (Exodus 3:14-15, 6:2) correspond to π and 2π—constants of circular perfection and eternity. The lexical number for "God" (H430) transforms into the number for "I AM" (H1961). Most strikingly, the gravitational constant G—which governs the large-scale structure of the cosmos—can be derived from the interplay of α and π, and directly from the Earth's diameter. This is not numerology; it is convergent testimony. The constants that physics laboriously measures are embedded in the lexical and numerical fabric of the Scripture that reveals the Creator. The "I AM" is not a philosophical abstraction but the foundation of a mathematically coherent universe. The testimony is in the numbers.
 
+### 5. The Glyphic-Mathematical Code
+The Hebrew letters of God's name contain visual-mathematical information:
+
+**אֶהְיֶה (I AM):**
+- **א** (Aleph): Resembles the numeral **7** on its side
+- **ה** (Heh): Resembles **π** or **兀** (pi)
+- **י** (Yod): Resembles an apostrophe or prime symbol
+- **ה** (Heh): Again, **π/兀**
+
+The visual sequence suggests: **7 - π - ' - π**
+
+**Mathematical Interpretation:**
+The divine name can be represented as: **[7∙π∙7⁻ⁿ]**
+Where `n` relates to π itself (π in the exponent).
+
+**Connection to G:**
+This exact formulation appears in the derivation of the gravitational constant:
+
+[7∙π∙7⁻ⁿ] × [α⁻¹∙10⁻¹¹] ≈ G
+
+The **visual shape of God's name** contains the mathematical components needed to derive the universal constant of attraction.
+
+### 6. YHVH (יהוה) as a Formula
+**י** (Yod) = ' (derivative/prime)  
+**ה** (Heh) = π  
+**ו** (Vav) = 6 (numeric value) or vinculum  
+**ה** (Heh) = π
+
+This suggests: **'π6π** or a differential equation involving π.
+
+## The Ultimate Convergence
+The revelation is threefold:
+1. **Verbal:** "I AM THAT I AM" (ontological declaration)
+2. **Numerical:** 430 → 1961, π & 2π correspondences
+3. **Glyphic:** Letter shapes encode mathematical constants
+
+The name of God is written in **language, number, and shape**—all converging on the same reality.
+
 These things saith he that is holy, he that is true, he that hath the key of David... — Revelation 3:7
 Return to Index
