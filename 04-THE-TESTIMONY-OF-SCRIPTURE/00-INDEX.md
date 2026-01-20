@@ -46,7 +46,7 @@ For each identifier, we examine:
 | **2 Timothy 3:16** | Scripture is God-Breathed | Systematic witness across the canonical structure | [24-2-Timothy-3-16-Self-Authenticating.md](./24-2-Timothy-3-16-Self-Authenticating.md) |
 | **Psalm 2:7** | The Decree of Divine Sonship | ∜[ID × √25] = 2424; 2424 × [1121 - 1/113] = 2,717,282 (Sun) | [25-Psalm-2-7.md](./25-Psalm-2-7.md) |
 | **Matthew 26-27** | The GPS Cross | 2641 - [verse pattern] yields thematic Strong's numbers across 50 verses | [26-The-GPS-Cross-Matthew-26-27.md](./26-The-GPS-Cross-Matthew-26-27.md) |
-
+|Matthew 21:44 & Luke 20:18 |	The Stone of Stumbling	|3900 → 790124; 1969 → H69; ID → 2424 & 2776
 *Note: Files 14-21 in the original index require corresponding content files. Consider them placeholders for the next phase of development.*
 
 ## How to Use This Section
