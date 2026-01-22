@@ -46,9 +46,10 @@ For each identifier, we examine:
 | **2 Timothy 3:16** | Scripture is God-Breathed | Systematic witness across the canonical structure | [24-2-Timothy-3-16-Self-Authenticating.md](./24-2-Timothy-3-16-Self-Authenticating.md) |
 | **Psalm 2:7** | The Decree of Divine Sonship | ∜[ID × √25] = 2424; 2424 × [1121 - 1/113] = 2,717,282 (Sun) | [25-Psalm-2-7.md](./25-Psalm-2-7.md) |
 | **Matthew 26-27** | The GPS Cross | 2641 - [verse pattern] yields thematic Strong's numbers across 50 verses | [26-The-GPS-Cross-Matthew-26-27.md](./26-The-GPS-Cross-Matthew-26-27.md) |
-|Matthew 21:44 & Luke 20:18 |	The Stone of Stumbling	|3900 → 790124; 1969 → H69; ID → 2424 & 2776
-| Exodus 3:14-15 & 6:2 | The I AM and the Constants | 430→1961; α, π → G; Earth's diameter → G | 28-Exodus-3-14-15-I-AM.md |
-| Mark 12:34 | Not Far from the Kingdom | ㏒㏒y=0.069...→3857,1446; e⁸→2980; 5786→3762,3772 | 29-Mark-12-34-Not-Far.md |
+| **Matthew 21:44 & Luke 20:18** |	The Stone of Stumbling	|3900 → 790124; 1969 → H69; ID → 2424 & 2776
+| **Exodus 3:14-15 & 6:2** | The I AM and the Constants | 430→1961; α, π → G; Earth's diameter → G | 28-Exodus-3-14-15-I-AM.md |
+| **Mark 12:34** | Not Far from the Kingdom | ㏒㏒y=0.069...→3857,1446; e⁸→2980; 5786→3762,3772 | 29-Mark-12-34-Not-Far.md |
+| **Revelation 1:8** | IAM137, Alpha and Omega | ID→2424,5547; ID/1234567891→5598; α from 3.7×37; ㏒㏒790124→7706 | 30-Revelation-1-8-Alpha-Omega.md |
 *Note: Files 14-21 in the original index require corresponding content files. Consider them placeholders for the next phase of development.*
 
 ## How to Use This Section
