@@ -51,4 +51,5 @@
 *   Revelation 1:8 (IAM137, Alpha and Omega)
 *   Revelation 1:1 (The Revelation of Jesus Christ)
 *   Daniel 12:12, Hebrews 10:7 & Revelation 10:7 (The Blessed Who Wait and Come)
-*   **Isaiah 22:22 & Matthew 16:19 (The Key of David and the Keys of the Kingdom)**
+*   Isaiah 22:22 & Matthew 16:19 (The Key of David and the Keys of the Kingdom)
+*   **Revelation 19:15 (The Sharp Sword and the Rod of Iron)**
