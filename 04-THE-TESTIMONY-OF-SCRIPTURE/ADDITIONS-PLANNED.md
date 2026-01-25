@@ -1,3 +1,6 @@
+# Planned Additions: Scriptural Testimonies
+*This file tracks scriptures targeted for inclusion during the expansion phase. Entries are moved to the `00-INDEX.md` upon completion.*
+
 ## Awaiting Analysis
 *   Isaiah 53:5 (Wounded for our transgressions)
 *   Jeremiah 23:5 (The Righteous Branch)
@@ -22,7 +25,6 @@
 *   Zechariah 12:10 (The Pierced One)
 *   Daniel 9:24 (Seventy Weeks)
 *   Revelation 1:8 (Alpha and Omega)
-*   **Revelation 11:11 (The Spirit of Life from God)**
 *   Revelation 3:7 (The Key of David)
 *   Revelation 5:5 (Lion of Judah)
 *   Revelation 13:18 (The Number 666)
@@ -42,7 +44,8 @@
 *   2 Timothy 3:16 (God-Breathed)
 *   Psalm 2:7 (Divine Sonship)
 *   Matthew 26-27 (The GPS Cross)
-*   "Matthew 21:44" (The stone)
+*   Matthew 21:44 & Luke 20:18 (The Stone of Stumbling)
 *   Exodus 3:14-15 & 6:2 (The I AM and the Constants)
 *   Mark 12:34 (Not Far from the Kingdom)
 *   Revelation 1:8 (IAM137, Alpha and Omega)
+*   **Revelation 11:11 (The Spirit of Life from God)**
