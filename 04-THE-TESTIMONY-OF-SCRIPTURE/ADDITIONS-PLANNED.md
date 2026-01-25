@@ -25,6 +25,7 @@
 *   Zechariah 12:10 (The Pierced One)
 *   Daniel 9:24 (Seventy Weeks)
 *   Revelation 1:8 (Alpha and Omega)
+*   Revelation 11:11 (The Spirit of Life from God)
 *   Revelation 3:7 (The Key of David)
 *   Revelation 5:5 (Lion of Judah)
 *   Revelation 13:18 (The Number 666)
@@ -48,4 +49,4 @@
 *   Exodus 3:14-15 & 6:2 (The I AM and the Constants)
 *   Mark 12:34 (Not Far from the Kingdom)
 *   Revelation 1:8 (IAM137, Alpha and Omega)
-*   **Revelation 11:11 (The Spirit of Life from God)**
+*   **Revelation 1:1 (The Revelation of Jesus Christ)**
