@@ -27,7 +27,7 @@ For each identifier, we examine:
 | **Zechariah 12:10** | The Pierced One | 4196 - 2378 - 1818 = 0 (Altar - Sacrifice - Blood) | [05-Zechariah-12-10.md](./05-Zechariah-12-10.md) |
 | **Daniel 9:24** | Seventy Weeks Determined | ⁸¹√(ID) ×10³ = 1440; ⅟1440×10⁴ = 6944 | [06-Daniel-9-24.md](./06-Daniel-9-24.md) |
 | **Revelation 1:8** | Alpha and Omega | ID / 1234567891 ≈ 5598 (Omega); G1 = Alpha | [07-Revelation-1-8.md](./07-Revelation-1-8.md) |
-| **Revelation 11:11** | **The Spirit of Life from God** | **1111 × 2 = 2222 (G2222='Life'); 3.5 days = 84 hours → ID ends with 84** | **[31-Revelation-11-11-The-Spirit-of-Life.md](./31-Revelation-11-11-The-Spirit-of-Life.md)** |
+| **Revelation 11:11** | The Spirit of Life from God | 1111 × 2 = 2222 (G2222='Life'); 3.5 days = 84 hours → ID ends with 84 | [31-Revelation-11-11-The-Spirit-of-Life.md](./31-Revelation-11-11-The-Spirit-of-Life.md) |
 | **Revelation 3:7** | The Key of David | log₁₀(2807)×10³ = 3448.2424... (Jesse → Jesus) | [08-Revelation-3-7.md](./08-Revelation-3-7.md) |
 | **Revelation 5:5** | Lion of Judah, Root of David | 3.605858⁷ × π = 24900 (Stone→Mountain filling earth) | [09-Revelation-5-5.md](./09-Revelation-5-5.md) |
 | **Revelation 13:18** | The Number of a Man (666) | (6⁶+6⁷+6⁸+6⁹)/(6×7×8×9) = 666×6 | [10-Revelation-13-18.md](./10-Revelation-13-18.md) |
@@ -51,7 +51,7 @@ For each identifier, we examine:
 | **Exodus 3:14-15 & 6:2** | The I AM and the Constants | 430→1961; α, π → G; Earth's diameter → G | [28-Exodus-3-14-15-I-AM.md](./28-Exodus-3-14-15-I-AM.md) |
 | **Mark 12:34** | Not Far from the Kingdom | ㏒㏒y=0.069...→3857,1446; e⁸→2980; 5786→3762,3772 | [29-Mark-12-34-Not-Far.md](./29-Mark-12-34-Not-Far.md) |
 | **Revelation 1:8** | IAM137, Alpha and Omega | ID→2424,5547; ID/1234567891→5598; α from 3.7×37; ㏒㏒790124→7706 | [30-Revelation-1-8-Alpha-Omega.md](./30-Revelation-1-8-Alpha-Omega.md) |
-| **Revelation 11:11** | The Spirit of Life from God | 1111 × 2 = 2222 (G2222='Life'); 3.5 days = 84 hours → ID ends with 84 | [31-Revelation-11-11-The-Spirit-of-Life.md](./31-Revelation-11-11-The-Spirit-of-Life.md) |
+| **Revelation 1:1** | **The Revelation of Jesus Christ** | **π⁷→3020; π⁷+π→3023; (ID⁻¹⁸+1)×π→2424; √(c×10⁻⁵)×π⁻²×10³→5547; ID transforms yield 2491 (John), 602 (Revelation), 2316 (God)** | **[32-Revelation-1-1.md](./32-Revelation-1-1.md)** |
 
 ## How to Use This Section
 
