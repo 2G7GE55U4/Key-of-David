@@ -5,7 +5,6 @@
 *   Isaiah 53:5 (Wounded for our transgressions)
 *   Jeremiah 23:5 (The Righteous Branch)
 *   Revelation 2-3 (The Seven Churches - to be broken into individual letters)
-*   John 14:6 (The Way, the Truth, and the Life)
 *   Matthew 1:23 (Emmanuel, God With Us)
 *   Matthew 2:1 (Born in Bethlehem of Judea)
 *   Hebrews 1:3 (The Express Image)
@@ -53,4 +52,5 @@
 *   Isaiah 22:22 & Matthew 16:19 (The Key of David and the Keys of the Kingdom)
 *   Revelation 19:15 (The Sharp Sword and the Rod of Iron)
 *   Daniel 9:24 (Seventy Weeks Determined)
-*   **John 10:11 (The Good Shepherd)**
+*   John 10:11 (The Good Shepherd)
+*   **John 14:6 (The Way, the Truth, and the Life)**
