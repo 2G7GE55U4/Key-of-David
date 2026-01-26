@@ -56,7 +56,8 @@ For each identifier, we examine:
 | **Isaiah 22:22 & Matthew 16:19** | The Key of David and the Keys of the Kingdom | 2222/1.2³=1285; (2222×1.2)−1=2665; 2807+1008+1732=5547; ㏑㏑㏑㏑𝓧=−0.2807→4438→1440→6944 | [34-Isaiah-22-22-Matthew-16-19.md](./34-Isaiah-22-22-Matthew-16-19.md) |
 | **Revelation 19:15** | The Sharp Sword and the Rod of Iron | ∛∛1915×10³=2315 (God‑breathed); (㏑㏑1915×10³)+√12=2026; (∛(10²×⅟e))⁷=4501 (sword); √∜[2424.01222...×(⅟200)]×10³=1366 (double‑edged); √10×10³=3162 (dagger) | [35-Revelation-19-15.md](./35-Revelation-19-15.md) |
 | **Daniel 9:24** | Seventy Weeks Determined | ⁸¹√(ID)×10³=1440 (seventy); ⅟1440×10⁴=6944 (sanctuary); 𝓧=(ID/c)/2π=3669→∛(𝓧×10⁷)=3323 (oil/Messiah); ID transforms yield 2424 (Jesus) & 5547 (Christ); (69.12275...)²+11²=4899 (Messiah) | [36-Daniel-9-24-Seventy-Weeks.md](./36-Daniel-9-24-Seventy-Weeks.md) |
-| **John 10:11** | **The Good Shepherd** | **(42.63 × π⁴) + ∛(2434) = 4166 (shepherd); equation contains 2434 (propitiation), 2424 (Jesus), 38 (holy); connects to IAM137 (α)** | **[37-John-10-11-The-Good-Shepherd.md](./37-John-10-11-The-Good-Shepherd.md)** |
+| **John 10:11** | The Good Shepherd | (42.63 × π⁴) + ∛(2434) = 4166 (shepherd); equation contains 2434 (propitiation), 2424 (Jesus), 38 (holy); connects to IAM137 (α) | [37-John-10-11-The-Good-Shepherd.md](./37-John-10-11-The-Good-Shepherd.md) |
+| **John 14:6** | **The Way, the Truth, and the Life** | **(∛π × 10) = 14.6*; (㏒5786)×10³ = 3762 (blindness → no man); (0.6912275131084⁻¹⁸+1)×π = 2424 (Jesus=Life); ∛(1320.3727) = 2222 (Teacher+Oath=Life)** | **[38-John-14-6-The-Way-Truth-Life.md](./38-John-14-6-The-Way-Truth-Life.md)** |
 
 ## How to Use This Section
 
