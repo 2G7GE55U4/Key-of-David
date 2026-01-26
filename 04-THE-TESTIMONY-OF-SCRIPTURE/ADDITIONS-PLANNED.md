@@ -54,4 +54,5 @@
 *   Daniel 9:24 (Seventy Weeks Determined)
 *   John 10:11 (The Good Shepherd)
 *   John 14:6 (The Way, the Truth, and the Life)
-*   **Revelation 8:1 (The Seventh Seal)**
+*   Revelation 8:1 (The Seventh Seal)
+*   **Daniel 9:2 (The Seventy-Year Prophecy and the 666-Year Desolation)**
