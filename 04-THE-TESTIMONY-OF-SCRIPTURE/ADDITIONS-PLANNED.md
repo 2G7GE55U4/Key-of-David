@@ -35,7 +35,7 @@
 *   Revelation 11:1 & Isaiah 11:1 (Rod from Jesse)
 *   Revelation 1:14 (White Hair, Fiery Eyes)
 *   Matthew 16:19 (Keys of the Kingdom)
-*   Matthew 3:16-17 (Spirit Descending)
+*   Matthew 3:16-17 (Spirit Descending & Voice from Heaven)
 *   Matthew 17:1-2 (Transfiguration)
 *   Revelation 14:1 (IAM137 on Zion)
 *   The Temple of Measurement
@@ -55,4 +55,5 @@
 *   John 10:11 (The Good Shepherd)
 *   John 14:6 (The Way, the Truth, and the Life)
 *   Revelation 8:1 (The Seventh Seal)
-*   **Daniel 9:2 (The Seventy-Year Prophecy and the 666-Year Desolation)**
+*   Daniel 9:2 (The Seventy-Year Prophecy and the 666-Year Desolation)
+*   **Matthew 3:16-17 (The Baptism and Divine Voice)**
