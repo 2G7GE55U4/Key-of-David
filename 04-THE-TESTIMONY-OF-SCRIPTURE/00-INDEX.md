@@ -54,7 +54,8 @@ For each identifier, we examine:
 | **Revelation 1:1** | The Revelation of Jesus Christ | π⁷→3020; π⁷+π→3023; (ID⁻¹⁸+1)×π→2424; √(c×10⁻⁵)×π⁻²×10³→5547; ID transforms yield 2491 (John), 602 (Revelation), 2316 (God) | [32-Revelation-1-1.md](./32-Revelation-1-1.md) |
 | **Daniel 12:12, Hebrews 10:7 & Revelation 10:7** | The Blessed Who Wait and Come | 12:12×2=2424; (㏒1288×10³)−1=3108→777; ²⁷√2424→1335; α derived from 1335 & 2777 (Volume); 1335³→5730→1969 | [33-Daniel-12-12-Hebrews-10-7-Revelation-10-7.md](./33-Daniel-12-12-Hebrews-10-7-Revelation-10-7.md) |
 | **Isaiah 22:22 & Matthew 16:19** | The Key of David and the Keys of the Kingdom | 2222/1.2³=1285; (2222×1.2)−1=2665; 2807+1008+1732=5547; ㏑㏑㏑㏑𝓧=−0.2807→4438→1440→6944 | [34-Isaiah-22-22-Matthew-16-19.md](./34-Isaiah-22-22-Matthew-16-19.md) |
-| **Revelation 19:15** | **The Sharp Sword and the Rod of Iron** | **∛∛1915×10³=2315 (God‑breathed); (㏑㏑1915×10³)+√12=2026; (∛(10²×⅟e))⁷=4501 (sword); √∜[2424.01222...×(⅟200)]×10³=1366 (double‑edged); √10×10³=3162 (dagger)** | **[35-Revelation-19-15.md](./35-Revelation-19-15.md)** |
+| **Revelation 19:15** | The Sharp Sword and the Rod of Iron | ∛∛1915×10³=2315 (God‑breathed); (㏑㏑1915×10³)+√12=2026; (∛(10²×⅟e))⁷=4501 (sword); √∜[2424.01222...×(⅟200)]×10³=1366 (double‑edged); √10×10³=3162 (dagger) | [35-Revelation-19-15.md](./35-Revelation-19-15.md) |
+| **Daniel 9:24** | **Seventy Weeks Determined** | **⁸¹√(ID)×10³=1440 (seventy); ⅟1440×10⁴=6944 (sanctuary); 𝓧=(ID/c)/2π=3669→∛(𝓧×10⁷)=3323 (oil/Messiah); ID transforms yield 2424 (Jesus) & 5547 (Christ); (69.12275...)²+11²=4899 (Messiah)** | **[36-Daniel-9-24-Seventy-Weeks.md](./36-Daniel-9-24-Seventy-Weeks.md)** |
 
 ## How to Use This Section
 
