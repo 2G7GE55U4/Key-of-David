@@ -53,4 +53,5 @@
 *   Revelation 19:15 (The Sharp Sword and the Rod of Iron)
 *   Daniel 9:24 (Seventy Weeks Determined)
 *   John 10:11 (The Good Shepherd)
-*   **John 14:6 (The Way, the Truth, and the Life)**
+*   John 14:6 (The Way, the Truth, and the Life)
+*   **Revelation 8:1 (The Seventh Seal)**
