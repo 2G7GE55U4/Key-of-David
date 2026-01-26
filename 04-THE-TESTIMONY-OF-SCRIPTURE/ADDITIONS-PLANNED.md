@@ -56,4 +56,5 @@
 *   John 14:6 (The Way, the Truth, and the Life)
 *   Revelation 8:1 (The Seventh Seal)
 *   Daniel 9:2 (The Seventy-Year Prophecy and the 666-Year Desolation)
-*   **Matthew 3:16-17 (The Baptism and Divine Voice)**
+*   Matthew 3:16-17 (The Baptism and Divine Voice)
+*   **Revelation 1:14 (The Ancient of Days)**
