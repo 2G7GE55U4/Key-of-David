@@ -65,6 +65,7 @@
 *   Revelation 1:13 (The Son of Man, Golden Vesture, and the Prophetic Interval)
 *   Revelation 1:16 (The Seven Stars, the Sharp Sword, and the Solar Countenance)
 *   Revelation 1:17 ("Fear Not, I AM Alpha and Omega")
-*   **Revelation 1:18 (The Living One With the Keys of Death and Hell)**
+*   Revelation 1:18 (The Living One With the Keys of Death and Hell)
+*   **Revelation 1:20 (The Mystery of the Seven Stars and Candlesticks)**
 
-**LANDMARK: 50 SCRIPTURAL TESTIMONIES COMPLETED.**
+**MILESTONE ACHIEVED: Revelation Chapter 1 is now complete (files #46-51).**
