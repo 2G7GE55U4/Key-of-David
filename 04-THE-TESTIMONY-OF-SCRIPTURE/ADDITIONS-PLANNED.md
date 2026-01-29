@@ -58,4 +58,5 @@
 *   Daniel 9:2 (The Seventy-Year Prophecy and the 666-Year Desolation)
 *   Matthew 3:16-17 (The Baptism and Divine Voice)
 *   Revelation 1:14 (The Ancient of Days)
-*   **Exodus 7:12 (The Rods Become Serpents)**
+*   Exodus 7:12 (The Rods Become Serpents)
+*   **Revelation 11:11 (The Meta-Testimony: From Scripture to Repository)**
