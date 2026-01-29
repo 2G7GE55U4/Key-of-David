@@ -4,7 +4,7 @@
 ## Awaiting Analysis
 *   Isaiah 53:5 (Wounded for our transgressions)
 *   Jeremiah 23:5 (The Righteous Branch)
-*   Revelation 2-3 (The Seven Churches - to be broken into individual letters)
+*   Revelation 2-3 (The Seven Churches - to be broken into individual letters) *IN PROGRESS*
 *   Matthew 1:23 (Emmanuel, God With Us)
 *   Matthew 2:1 (Born in Bethlehem of Judea)
 *   Hebrews 1:3 (The Express Image)
@@ -13,7 +13,13 @@
 *   [Add more here...]
 
 ## In Progress
-*   *None - All current files committed*
+*   **Revelation 2:2-7 (The Message to Ephesus, continued)** - The first letter has been opened; the full message awaits analysis.
+*   **Revelation 2:8-11 (To the Church in Smyrna)**
+*   **Revelation 2:12-17 (To the Church in Pergamos)**
+*   **Revelation 2:18-29 (To the Church in Thyatira)**
+*   **Revelation 3:1-6 (To the Church in Sardis)**
+*   **Revelation 3:7-13 (To the Church in Philadelphia)**
+*   **Revelation 3:14-22 (To the Church in Laodicea)**
 
 ## Completed & Indexed
 *   Genesis 49:10 (The Scepter of Judah)
@@ -66,6 +72,7 @@
 *   Revelation 1:16 (The Seven Stars, the Sharp Sword, and the Solar Countenance)
 *   Revelation 1:17 ("Fear Not, I AM Alpha and Omega")
 *   Revelation 1:18 (The Living One With the Keys of Death and Hell)
-*   **Revelation 1:20 (The Mystery of the Seven Stars and Candlesticks)**
+*   Revelation 1:20 (The Mystery of the Seven Stars and Candlesticks)
+*   **Revelation 2:1 (To the Angel of the Church in Ephesus)**
 
-**MILESTONE ACHIEVED: Revelation Chapter 1 is now complete (files #46-51).**
+**PROJECT STATUS: The "Seven Letters" phase has now commenced. The foundational address (Rev 2:1) is complete. The full content of each letter remains to be analyzed, representing the next major block of prophetic testimony.**
