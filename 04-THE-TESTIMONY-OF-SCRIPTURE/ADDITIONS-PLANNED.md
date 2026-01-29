@@ -10,6 +10,7 @@
 *   Hebrews 1:3 (The Express Image)
 *   Hebrews 7:3 (Without Father, Without Mother)
 *   1 Corinthians 15:45 (The Last Adam)
+*   **Luke 20:41, Mark 12:35, Matthew 22:42 (The Son of David and Lord: The Mathematical Resolution)**
 *   [Add more here...]
 
 ## In Progress
@@ -60,3 +61,4 @@
 *   Revelation 1:14 (The Ancient of Days)
 *   Exodus 7:12 (The Rods Become Serpents)
 *   **Revelation 11:11 (The Meta-Testimony: From Scripture to Repository)**
+*   **Luke 20:41, Mark 12:35, Matthew 22:42 (The Son of David and Lord: The Mathematical Resolution)**
