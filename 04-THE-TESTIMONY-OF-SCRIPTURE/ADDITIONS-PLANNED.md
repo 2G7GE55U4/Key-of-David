@@ -64,4 +64,7 @@
 *   Revelation 1:11-13 (The IAM137, Alpha and Omega, and the Mandate to the Seven Churches)
 *   Revelation 1:13 (The Son of Man, Golden Vesture, and the Prophetic Interval)
 *   Revelation 1:16 (The Seven Stars, the Sharp Sword, and the Solar Countenance)
-*   **Revelation 1:17 ("Fear Not, I AM Alpha and Omega")**
+*   Revelation 1:17 ("Fear Not, I AM Alpha and Omega")
+*   **Revelation 1:18 (The Living One With the Keys of Death and Hell)**
+
+**LANDMARK: 50 SCRIPTURAL TESTIMONIES COMPLETED.**
