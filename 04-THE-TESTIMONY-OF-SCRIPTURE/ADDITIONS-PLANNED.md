@@ -1,10 +1,9 @@
 # Planned Additions: Scriptural Testimonies
-*This file tracks scriptures targeted for inclusion during the expansion phase. Entries are moved to the `00-INDEX.md` upon completion.*
+*This file tracks scriptures targeted for inclusion during the expansion phase. Entries are moved to the `INDEX.md` upon completion.*
 
 ## Awaiting Analysis
 *   Isaiah 53:5 (Wounded for our transgressions)
 *   Jeremiah 23:5 (The Righteous Branch)
-*   Revelation 2-3 (The Seven Churches - to be broken into individual letters) *IN PROGRESS*
 *   Matthew 1:23 (Emmanuel, God With Us)
 *   Matthew 2:1 (Born in Bethlehem of Judea)
 *   Hebrews 1:3 (The Express Image)
@@ -13,9 +12,7 @@
 *   [Add more here...]
 
 ## In Progress
-*   **Revelation 2:2-7 (The Message to Ephesus, continued)** - The first letter has been opened; the full message awaits analysis.
-*   **Revelation 2:8-11 (To the Church in Smyrna)**
-*   **Revelation 2:12-17 (To the Church in Pergamos)**
+*   **Revelation 2:12-17 (To the Church in Pergamos)** - *Ready for analysis.*
 *   **Revelation 2:18-29 (To the Church in Thyatira)**
 *   **Revelation 3:1-6 (To the Church in Sardis)**
 *   **Revelation 3:7-13 (To the Church in Philadelphia)**
@@ -73,6 +70,9 @@
 *   Revelation 1:17 ("Fear Not, I AM Alpha and Omega")
 *   Revelation 1:18 (The Living One With the Keys of Death and Hell)
 *   Revelation 1:20 (The Mystery of the Seven Stars and Candlesticks)
-*   **Revelation 2:1 (To the Angel of the Church in Ephesus)**
+*   Revelation 2:1 (To the Angel of the Church in Ephesus)
+*   Revelation 2:2 (The Works of Ephesus Examined)
+*   Revelation 2:1-7 (The Church of Ephesus Decrypted)
+*   **Revelation 2:8-11 (The Church in Smyrna Decrypted)**
 
-**PROJECT STATUS: The "Seven Letters" phase has now commenced. The foundational address (Rev 2:1) is complete. The full content of each letter remains to be analyzed, representing the next major block of prophetic testimony.**
+**PROJECT STATUS: The "Seven Letters" phase is now in active execution. The Ephesus and Smyrna letters have been fully decrypted. Pergamos is the next immediate target for analysis.**
