@@ -72,6 +72,7 @@ For each identifier, we examine:
 | **Revelation 2:2** | The Works of Ephesus Examined | 2041-15=2026 (Works-Well-doing=Year); (5281-2179)-1=3101 (Patience-Ephesus=Disciple); (2556/e)+sin(44.4°)-941≈0 (Evil=e+Sin of Man=Unbearable); 3101+652+π≈3756 (Disciple+Apostle+π=Not) | [53-Revelation-2-2-The-Works-of-Ephesus-Examined.md](./53-Revelation-2-2-The-Works-of-Ephesus-Examined.md) |
 | **Revelation 2:1-7** | The Church of Ephesus Decrypted | Master Decryption: Verse-by-verse arithmetic syntax; Patience = 2×(1320+1320)+1=5281; Love Diminished: (25-1)=24; Prophetic Timestamp: √3340×100+7=5786; Life Synthesis: ⁹√1320.3727×10³=2222 | [52.1-REVELATION-2-1-7-EPHESUS-DECRYPTED.md](./52.1-REVELATION-2-1-7-EPHESUS-DECRYPTED.md) |
 | **Revelation 2:8-11** | The Church in Smyrna Decrypted | Resurrection Thesis: 1/888→G1125; ID→2424; Dead+Alive=Circle(H5696); Faithful-Death=Resurrection(G1815); 2nd Death nullified (3498-1208-2288-2=0); √(H410)→Resurrection(G1454) | [54.1-REVELATION-2-8-11-SMYRNA-DECRYPTED.md](./54.1-REVELATION-2-8-11-SMYRNA-DECRYPTED.md) |
+| **Revelation 2:12-17** | **The Church in Pergamos Decrypted** | **The Sword quantified: [ln2424]⁴+∛14.42→G3691; √10×10³→G3162; Doctrine equations: (1322-1109)+1=214 (Balaam→Lament); (35348/10)-π=3531 (Nicolaitans); Ultimatum: 4501(G4501)-3340(G3340)=1161(H1161,'Terrors')** | **[55.1-REVELATION-2-12-17-PERGAMOS-DECRYPTED.md](./55.1-REVELATION-2-12-17-PERGAMOS-DECRYPTED.md)** |
 
 ## How to Use This Section
 1.  **Start with a verse** you find significant.
