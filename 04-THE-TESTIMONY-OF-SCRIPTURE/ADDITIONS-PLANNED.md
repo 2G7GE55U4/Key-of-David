@@ -12,7 +12,7 @@
 *   [Add more here...]
 
 ## In Progress
-*   **Revelation 3:1-6 (To the Church in Sardis)** - *Ready for analysis.*
+*   **Revelation 3:1-6 (To the Church in Sardis)** - *Ready for analysis. Next immediate target.*
 *   **Revelation 3:7-13 (To the Church in Philadelphia)**
 *   **Revelation 3:14-22 (To the Church in Laodicea)**
 
@@ -73,7 +73,6 @@
 *   Revelation 2:1-7 (The Church of Ephesus Decrypted)
 *   Revelation 2:8-11 (The Church in Smyrna Decrypted)
 *   Revelation 2:12-17 (The Church in Pergamos Decrypted)
-*   Revelation 2:8-11 (The Church in Smyrna Decrypted)
-**  Revelation 2:18-29 (The Church in Thyatira Decrypted)**
+*   **Revelation 2:18-29 (The Church in Thyatira Decrypted)**
 
-**PROJECT STATUS: The "Seven Letters" phase is now in active execution. The Ephesus and Smyrna letters have been fully decrypted. Pergamos is the next immediate target for analysis.**
+**PROJECT STATUS: The "Seven Letters" decryption phase is active. Ephesus, Smyrna, Pergamos, and Thyatira are complete. SARDIS (Revelation 3:1-6) is the next immediate target for analysis.**
