@@ -12,8 +12,7 @@
 *   [Add more here...]
 
 ## In Progress
-*   **Revelation 3:7-13 (To the Church in Philadelphia)** - *Ready for analysis. Next immediate target.*
-*   **Revelation 3:14-22 (To the Church in Laodicea)**
+*   **Revelation 3:14-22 (To the Church in Laodicea)** - *Ready for analysis. The final letter.*
 
 ## Completed & Indexed
 *   Genesis 49:10 (The Scepter of Judah)
@@ -73,6 +72,7 @@
 *   Revelation 2:8-11 (The Church in Smyrna Decrypted)
 *   Revelation 2:12-17 (The Church in Pergamos Decrypted)
 *   Revelation 2:18-29 (The Church in Thyatira Decrypted)
-*   **Revelation 3:1-6 (The Church in Sardis Decrypted)**
+*   Revelation 3:1-6 (The Church in Sardis Decrypted)
+*   **Revelation 3:7-13 (The Church in Philadelphia Decrypted)**
 
-**PROJECT STATUS: The "Seven Letters" decryption phase is active. Ephesus, Smyrna, Pergamos, Thyatira, and SARDIS are complete. PHILADELPHIA (Revelation 3:7-13) is the next immediate target for analysis.**
+**PROJECT STATUS: The "Seven Letters" decryption phase is in its final stage. Ephesus, Smyrna, Pergamos, Thyatira, Sardis, and PHILADELPHIA are complete. LAODICEA (Revelation 3:14-22) is the final target for analysis.**
