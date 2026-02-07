@@ -70,10 +70,4 @@
 *   Revelation 2:2 (The Works of Ephesus Examined)
 *   Revelation 2:1-7 (The Church of Ephesus Decrypted)
 *   Revelation 2:8-11 (The Church in Smyrna Decrypted)
-*   Revelation 2:12-17 (The Church in Pergamos Decrypted)
-*   Revelation 2:18-29 (The Church in Thyatira Decrypted)
-*   Revelation 3:1-6 (The Church in Sardis Decrypted)
-*   Revelation 3:7-13 (The Church in Philadelphia Decrypted)
-*   **Revelation 3:14-22 (To the Church in Laodicea)**
-
-**PROJECT STATUS: MILESTONE ACHIEVED.** The "Seven Letters" decryption phase is now **complete**. All seven churches—Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, and Laodicea—have been decrypted and indexed. The foundational cryptographic witness is established. The project can now proceed to the next phase of synthesis or to the analysis of remaining scriptures in "Awaiting Analysis."
+*   Revelation 2:12-
