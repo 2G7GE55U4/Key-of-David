@@ -77,6 +77,7 @@ For each identifier, we examine:
 | **Revelation 3:1-6** | The Church in Sardis Decrypted | Speaker's Identity: 5547.792/7=792 (Christ/Stars); Call to Be: e⁷≈1096 ('Be'); Prophetic Vesture: 2440-day interval (2014-2020) = G2440; Book of Life: 976+2222=3198 (Melchizedek); Chronological Anchor: 4151+1577+e≈5730→1969 CE | [57.1-REVELATION-3-1-6-SARDIS-DECRYPTED.md](./57.1-REVELATION-3-1-6-SARDIS-DECRYPTED.md) |
 | **Revelation 3:7-13** | The Church in Philadelphia Decrypted | The Key Holder: 37+π=40 (Holy); log(2807)×10³=3448.2424 (Jesse→Jesus); The Open Door: ⁹√2400×10³=2374; The α Constant: Derived from Planck length & G2419 (New Jerusalem): α = Φ²/(360-𝓧) = 1/137.0359992419...; The Hearing: 602/π=191 (Revelation→Hear) | [58.1-REVELATION-3-7-13-PHILADELPHIA-DECRYPTED.md](./58.1-REVELATION-3-7-13-PHILADELPHIA-DECRYPTED.md) |
 | **Revelation 3:14-22** | The Church in Laodicea Decrypted | ⁹√2400 × 10³ = 2374 (Door); 4147 - (5553 - 4442) - 318 = 2718 (e); 4151 + 1577 + e = 5730 AM (1969 CE) | [59.1-REVELATION-3-14-22-LAODICEA-DECRYPTED.md](./59.1-REVELATION-3-14-22-LAODICEA-DECRYPTED.md) |
+| **REVELATION 1:1 (Integral)** | The Mathematical Grammar of the Reveal | π⁷ = 3020; (ID⁻¹⁸+1) × π = 2424; √(c×10⁻⁵) × π⁻² × 10³ = 5547; ID transforms yield 2491, 602, 4151, 2305, 3669; ((ID×10⁻¹³)⁻¹⁸+1) × e = 2098 (The Gospel) | [60.1-REVELATION-1-1-INTEGRAL-SYNTHESIS.md](./60.1-REVELATION-1-1-INTEGRAL-SYNTHESIS.md) |
 
 ## How to Use This Section
 1.  **Start with a verse** you find significant.
