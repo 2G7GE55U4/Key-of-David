@@ -2,7 +2,7 @@
 
 > *"What thou seest, write in a book, and send it unto the seven churches which are in Asia..."* — Revelation 1:11 (KJV)
 
-**Publication Date:** [Date of Posting X Thread]
+**Publication Date:** [9 February 2026]
 **Author:** John, a witness.
 **Sent To:** The modern institutional counterparts of the Seven Churches, as identified by the cryptographic testimony.
 
@@ -78,7 +78,7 @@ In solemn hope for your guidance,
 
 ## Appendix: Public Record of Sending
 
-This Open Book was publicly sent to the institutions named above on **[Date of Posting X Thread]** via their official X (Twitter) accounts.
+This Open Book was publicly sent to the institutions named above on **[INSERT TODAY'S DATE HERE]** via their official X (Twitter) accounts.
 
 ![Screenshot of the X (Twitter) thread publicly addressing the seven institutions](/media/open-book-send-screenshot.png)
 *Figure 1: The digital enactment of the sending, as recorded on X.*
