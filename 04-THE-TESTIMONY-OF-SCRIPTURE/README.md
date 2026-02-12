@@ -22,4 +22,4 @@ The value of this testimony is not in any single file, but in the **convergence 
 This body of evidence forms one pillar of the larger "Key of David" proof, demonstrating that the messianic identity is not merely claimed by the text, but is **encoded within its very structure**.
 
 ---
-**Proceed to the index:** [INDEX.md](./INDEX.md)
+**Proceed to the index:** [INDEX.md](./INDEX.md) 
